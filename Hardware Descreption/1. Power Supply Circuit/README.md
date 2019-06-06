@@ -1,4 +1,4 @@
-![](Hardware%20Descreption/1.%20Power%20Supply%20Circuit/Power%20Supply%20design.png)
+![](Hardware%20Descreption/1.%20Power%20Supply%20Circuit/Power%20Supply%20Design.png)
 
 # Power Supply Circuit Descreption
 
@@ -15,3 +15,4 @@
   5. Under voltage Lockout arrangement.
 * The power supply circuit also have a LED to notify whether system is powered or not
 
+<img src="Hardware Descreption/1. Power Supply Circuit/Power Supply Design.png" >
