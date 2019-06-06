@@ -2,7 +2,7 @@
 
 ## Industrial-Datalogger-Project
 This repository includes all the hardware design files and firmware files for Industrial DataLogger 
-which is designed for The Ultimate Arduino Challenge
+which is designed for The Ultimate Arduino Challenge, hardware descreption section of the repository explain the hardware of datalogger in brief
 
 ![](Datalogger%20Images/DataLogger%20Image.jpg)
 
