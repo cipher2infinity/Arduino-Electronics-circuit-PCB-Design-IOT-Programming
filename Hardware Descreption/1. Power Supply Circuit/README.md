@@ -1,5 +1,3 @@
-![](Datalogger%20Images/Data%20Logger%20Board%20overview.png)
-
 # Power Supply Circuit Descreption
 
 * Power supply circuit contains two different circuit to generate two diffrent voltage levels
@@ -13,6 +11,4 @@
   3. Surge protection (Protection from Lightning).
   4. Overcurrent protection.
   5. Under voltage Lockout arrangement.
-* The power supply circuit also have a LED to notify whether system is powered or not
-
-<img src="Hardware Descreption/1. Power Supply Circuit/Power Supply Design.png" >
+* The power supply circuit also have a LED to notify whether system is powered or not.
