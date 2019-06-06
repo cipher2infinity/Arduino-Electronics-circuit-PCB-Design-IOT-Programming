@@ -1,4 +1,4 @@
-ALL the sections of the hardware are described in brief.
+ALL the sections of the datalogger are described in brief also Schematic files are included.
 
 * Power Supply Circuit
 * Atmega256 Circuit.
