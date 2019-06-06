@@ -1,3 +1,5 @@
+![](Hardware Descreption/1. Power Supply Circuit/)
+
 # Power Supply Circuit Descreption
 
 * Power supply circuit contains two different circuit to generate two diffrent voltage levels
