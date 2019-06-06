@@ -11,4 +11,5 @@
   3. Surge protection (Protection from Lightning).
   4. Overcurrent protection.
   5. Under voltage Lockout arrangement.
+* The power supply circuit also have a LED to notify whether system is powered or not
 
