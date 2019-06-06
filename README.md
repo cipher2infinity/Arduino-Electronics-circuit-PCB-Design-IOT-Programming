@@ -19,16 +19,16 @@ https://drive.google.com/open?id=1AglGJTn_O3K_O5rFmPPeSSnq5-zFRN2F
 ## Features
 * SMPS (5V)
 * LDO Regulator (3.3v)
-3. Relay Driver										 (2 CH)
-4. DC Motor Speed Controller
-5. 0-10 V Digital Input 					 (4 CH)
-6. 0-10 V Analog Input 						 (4 CH)
-7. 4-20 mA Receiver								 (2 CH)
-8. Real Time Clock
-9. Bluetooth Low Energy 
-10. WiFi Module
-11. SD Card Module
-12. RS232 Interface
-13. RS485 Interface
-14. 6 Pin ICSP Headers
-15. Serial Programming using UART0
+* Relay Driver										 (2 CH)
+* DC Motor Speed Controller
+* 0-10 V Digital Input 					 (4 CH)
+* 0-10 V Analog Input 						 (4 CH)
+* 4-20 mA Receiver								 (2 CH)
+* Real Time Clock
+* Bluetooth Low Energy 
+* WiFi Module
+* SD Card Module
+* RS232 Interface
+* RS485 Interface
+* 6 Pin ICSP Headers
+* Serial Programming using UART0
