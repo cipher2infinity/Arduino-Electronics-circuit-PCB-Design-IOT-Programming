@@ -6,9 +6,9 @@
 * SMPS Circuit generates 5V using LM2596-5.0 IC which is from Texas Instruments.
 * Linear regulator circuit generates 3.3v using AMS1117-3.3 IC which is from Monolithic semiconductors.
 * The power supply circuit contains following features.
-  a.	Reverse polarity protection.
-  b.	Overvoltage protection.
-  c.	Surge protection (Protection from Lightning).
-  d.	Overcurrent protection.
-  e.	Under voltage Lockout arrangement.
+  1. Reverse polarity protection.
+  2. Overvoltage protection.
+  3. Surge protection (Protection from Lightning).
+  4. Overcurrent protection.
+  5. Under voltage Lockout arrangement.
 
