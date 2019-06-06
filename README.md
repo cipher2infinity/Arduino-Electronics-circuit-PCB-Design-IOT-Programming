@@ -7,7 +7,7 @@ which is designed for The Ultimate Arduino Challenge, hardware descreption secti
 ![](Datalogger%20Images/DataLogger%20Image.jpg)
 
 ## Introduction
-Please check the following links for video demostration of Datalogger PCB
+Please check the following links for demostration of Datalogger
 
 1. Video in this link describes the entire PCB of Industrial Datalogger
 
