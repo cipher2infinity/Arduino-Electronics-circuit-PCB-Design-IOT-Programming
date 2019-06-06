@@ -17,8 +17,8 @@ https://drive.google.com/open?id=1AglGJTn_O3K_O5rFmPPeSSnq5-zFRN2F
 ##
 
 ## Features
-1. SMPS (5V)
-2. LDO Regulator (3.3v)
+* SMPS (5V)
+* LDO Regulator (3.3v)
 3. Relay Driver										 (2 CH)
 4. DC Motor Speed Controller
 5. 0-10 V Digital Input 					 (4 CH)
