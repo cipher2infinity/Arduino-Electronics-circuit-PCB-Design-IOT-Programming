@@ -6,6 +6,8 @@ which is designed for The Ultimate Arduino Challenge
 
 ![](Datalogger%20Images/Data%20Logger%20Board%20overview.png)
 
+![](Datalogger%20Images/DataLogger%20Image.jpg)
+
 ## Introduction
 Please check the following links for video demostration of Datalogger PCB
 
