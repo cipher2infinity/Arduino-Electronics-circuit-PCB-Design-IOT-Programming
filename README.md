@@ -16,7 +16,7 @@ https://drive.google.com/open?id=1-QjOal9vDFr6C30vdyRp-lrAA95-3nSr
 https://drive.google.com/open?id=1AglGJTn_O3K_O5rFmPPeSSnq5-zFRN2F
 ##
 
-# Features
+## Features
 1. SMPS (5V)
 2. LDO Regulator (3.3v)
 3. Relay Driver										 (2 CH)
