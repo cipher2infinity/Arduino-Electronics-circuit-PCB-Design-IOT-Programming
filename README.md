@@ -32,3 +32,6 @@ https://drive.google.com/open?id=1AglGJTn_O3K_O5rFmPPeSSnq5-zFRN2F
 * RS485 Interface
 * 6 Pin ICSP Headers
 * Serial Programming using UART0
+
+
+![](Datalogger%20Images/Data%20Logger%20Board%20overview.png)
