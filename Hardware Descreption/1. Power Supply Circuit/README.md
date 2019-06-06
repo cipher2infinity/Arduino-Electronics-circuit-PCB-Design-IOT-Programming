@@ -1,4 +1,4 @@
-![](Hardware Descreption/1. Power Supply Circuit/)
+![](Hardware%20Descreption/1.%20Power%20Supply%20Circuit/Power%20Supply%20design.png)
 
 # Power Supply Circuit Descreption
 
