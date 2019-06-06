@@ -4,7 +4,7 @@
 This repository includes all the hardware design files and firmware files for Industrial DataLogger 
 which is designed for    The Ultimate Arduino Challenge
 
-#
+##
 Please check the following links for video demostration of Datalogger PCB
 
 1. Video in this link describes the entire PCB of Industrial Datalogger
@@ -14,7 +14,7 @@ https://drive.google.com/open?id=1-QjOal9vDFr6C30vdyRp-lrAA95-3nSr
 2. Video in this link gives the demostration of each and every inetrface of Industrial Datalogger
 
 https://drive.google.com/open?id=1AglGJTn_O3K_O5rFmPPeSSnq5-zFRN2F
-#
+##
 
 # Features
 1. SMPS (5V)
