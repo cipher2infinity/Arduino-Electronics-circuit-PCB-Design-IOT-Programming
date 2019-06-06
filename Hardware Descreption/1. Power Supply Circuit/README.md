@@ -1,4 +1,4 @@
-![](Hardware%20Descreption/1.%20Power%20Supply%20Circuit/Power%20Supply%20Design.png)
+![](Datalogger%20Images/Data%20Logger%20Board%20overview.png)
 
 # Power Supply Circuit Descreption
 
