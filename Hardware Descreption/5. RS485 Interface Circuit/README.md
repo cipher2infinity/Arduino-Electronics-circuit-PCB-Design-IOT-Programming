@@ -8,3 +8,5 @@
 6. SM712 is a assymetric TVS diode that provides the protection from transients on RS485 lines.
 7. 120 ohm is a termination resistor it is used for impedance matching.
 8. A is pulled to 5v and B is pulled to gnd using 1k resistor this done to provide default state to the RS485 line.
+9. F1 and F2 are the PPTC fuse of 125mA they are used to provide protection from shortcircuit or overcurrent.
+10. MSTBA2 is a dual channel pluggable connector.
