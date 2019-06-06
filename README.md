@@ -4,6 +4,8 @@
 This repository includes all the hardware design files and firmware files for Industrial DataLogger 
 which is designed for The Ultimate Arduino Challenge
 
+![](Datalogger%20Images/Data%20Logger%20Board%20overview.png)
+
 ## Introduction
 Please check the following links for video demostration of Datalogger PCB
 
@@ -33,5 +35,3 @@ https://drive.google.com/open?id=1AglGJTn_O3K_O5rFmPPeSSnq5-zFRN2F
 * 6 Pin ICSP Headers
 * Serial Programming using UART0
 
-
-![](Datalogger%20Images/Data%20Logger%20Board%20overview.png)
