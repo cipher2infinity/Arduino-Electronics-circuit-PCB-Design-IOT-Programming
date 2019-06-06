@@ -11,11 +11,11 @@ Please check the following links for video demostration of Datalogger PCB
 
 1. Video in this link describes the entire PCB of Industrial Datalogger
 
-https://drive.google.com/open?id=1-QjOal9vDFr6C30vdyRp-lrAA95-3nSr
+https://drive.google.com/open?id=1AglGJTn_O3K_O5rFmPPeSSnq5-zFRN2F
 
 2. Video in this link gives the demostration of each and every inetrface of Industrial Datalogger
 
-https://drive.google.com/open?id=1AglGJTn_O3K_O5rFmPPeSSnq5-zFRN2F
+https://drive.google.com/open?id=1-QjOal9vDFr6C30vdyRp-lrAA95-3nSr
 ##
 
 ## Features
