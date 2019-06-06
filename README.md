@@ -4,7 +4,7 @@
 This repository includes all the hardware design files and firmware files for Industrial DataLogger 
 which is designed for The Ultimate Arduino Challenge
 
-##
+## Introduction
 Please check the following links for video demostration of Datalogger PCB
 
 1. Video in this link describes the entire PCB of Industrial Datalogger
