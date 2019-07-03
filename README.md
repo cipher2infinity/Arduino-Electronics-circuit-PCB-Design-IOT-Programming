@@ -8,8 +8,7 @@ This repository includes following things which is designed for The Ultimate Ard
 * Examples codes used in demos of all the sections of datalogger.
 * hardware descreption section includes descreptions for all the hardware blocks of datalogger. 
 * Libraries used in demo code
-* Discount coupen is embedded in the link
-https://www.udemy.com/arduino-industrial-data-logger-designing-and-programming/?couponCode=COURSE_COUPON
+
 
 ![](Datalogger%20Images/DataLogger%20Image.jpg)
 
