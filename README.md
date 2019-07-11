@@ -7,9 +7,7 @@ This repository includes following things.
 * hardware descreption section includes descreptions for all the hardware blocks of datalogger. 
 * Libraries used in demo code
 
-I have designed a cource for this data logger that will help you to learn hardware designing and programing, you can check the following link (Following link includes coupen code)
-https://www.udemy.com/arduino-industrial-data-logger-designing-and-programming/?couponCode=SKIL-KNOWLEDGE-VALUE
-
+I have designed the course for this datalogger, that teaches you how to design hardware and do programing for it.
 
 ![](Datalogger%20Images/DataLogger%20Image.jpg)
 
