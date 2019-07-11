@@ -1,7 +1,5 @@
-# The Ultimate Arduino Challenge
-
-## Industrial-Datalogger-Project
-This repository includes following things which is designed for The Ultimate Arduino Challenge.
+# Industrial-Datalogger-Project
+This repository includes following things.
 
 * Images of Datalogger
 * Hardware design files and firmware files for Industrial DataLogger.
