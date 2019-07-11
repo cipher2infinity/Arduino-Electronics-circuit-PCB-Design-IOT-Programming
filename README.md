@@ -1,4 +1,4 @@
-# Industrial-Datalogger-Project
+# Arduino : Industrial Data Logger Designing and Programing
 This repository includes following things.
 
 * Images of Datalogger
