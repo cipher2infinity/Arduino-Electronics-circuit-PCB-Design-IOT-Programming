@@ -2,8 +2,7 @@
 
 I have designed the course for the following mentioned datalogger, that teaches you how to design hardware and do programing for it.
 
-This repository includes following things.
-
+## Content
 * Images of Datalogger
 * Hardware design files and firmware files for Industrial DataLogger.
 * Examples codes used in demos of all the sections of datalogger.
