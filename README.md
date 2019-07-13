@@ -1,4 +1,4 @@
-# Arduino : Industrial Data Logger Designing and Programing Course
+# Arduino : Industrial Data Logger Designing and Programing
 
 I have designed the course for the following mentioned datalogger, that teaches you how to design hardware and do programing for it.
 
