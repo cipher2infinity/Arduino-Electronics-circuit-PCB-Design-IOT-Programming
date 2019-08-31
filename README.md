@@ -2,6 +2,8 @@
 
 I have designed the course for the following mentioned datalogger on Udemy, that teaches you how to design hardware and do programing for it.
 
+https://www.udemy.com/course/arduino-industrial-data-logger-designing-and-programming/?couponCode=KNOWLEDGE_VALUE
+
 ## Content
 * Images of Datalogger
 * Hardware design files and firmware files for Industrial DataLogger.
