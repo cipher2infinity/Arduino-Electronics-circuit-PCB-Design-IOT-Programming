@@ -3,19 +3,18 @@
 # Modules
 
 * USB to TTL converter
-* 
-* ATMEGA2560 Microcontroller
-* EL357 Optocoupler
-* TLP492-4 4 Channel optocoupler 
-* MAX485 RS485 Driver
-* DS1307 RTC
-* ADS1115 16 bit 4 channel ADC
-* LM358 OPAMP
-* SN74LVC1G125 Single channel buffer
-* HM-10 BLE Module
-* SN74LVC1G245 Octal transievr
-* ATWINC1510 WiFi Module
-* MAX232 Line Driver
+* RS232 to TTL converter
+* RS485 to TTL converter
+* USBASP programmer
+* 10 k potentiometer
+* DS1307 RTC module
+* ADS1115 16 bit ADC module
+* 12v DC motor
+* 12v Relay
+* Submercible pump
+* Salae Logic Analyzer
+* SD card
+
 
 
 
