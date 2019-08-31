@@ -15,6 +15,7 @@
 * Salae Logic Analyzer
 * SD card
 * Multimeter
+* 4-20mA transmitter
 
 
 
