@@ -14,6 +14,7 @@
 * Submercible pump
 * Salae Logic Analyzer
 * SD card
+* Multimeter
 
 
 
