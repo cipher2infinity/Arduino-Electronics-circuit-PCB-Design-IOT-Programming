@@ -1,6 +1,6 @@
 # Arduino : Industrial Data Logger Designing and Programing
 
-I have designed the course for the following mentioned datalogger on Udemy, that teaches you how to design hardware and do programing for it.
+I have designed the course for the following mentioned datalogger on Udemy, that teaches you how to design hardware and do programing for it. You can check the content of course at following link.
 
 https://www.udemy.com/course/arduino-industrial-data-logger-designing-and-programming/?couponCode=KNOWLEDGE_VALUE
 
