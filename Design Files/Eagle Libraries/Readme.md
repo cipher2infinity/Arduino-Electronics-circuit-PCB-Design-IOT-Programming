@@ -1,2 +1,2 @@
 
-Dear students soon I will upload the eagle components libraries used in this course.
+Eagle libraries.zip file includes the libraries that are downloaded from external site
