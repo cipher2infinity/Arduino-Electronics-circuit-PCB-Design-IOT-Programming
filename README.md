@@ -20,7 +20,6 @@ Please check the following links for demostration of Datalogger
 
 2. This [video](https://drive.google.com/open?id=1-QjOal9vDFr6C30vdyRp-lrAA95-3nSr) gives the demostration of each and every inetrface of Industrial Datalogger
 
-##
 
 ## Features
 * SMPS (5V)
