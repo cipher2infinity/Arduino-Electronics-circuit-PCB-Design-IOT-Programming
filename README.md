@@ -1,6 +1,6 @@
 # Arduino : Electronics circuit, PCB Design & IOT Programming
 
-You can check the curriculum of this course on our [website](https://www.cipher2infinity.com/courses)
+You can check the course curriculum on our [website](https://www.cipher2infinity.com/courses)
 
 ## Content
 * Images of Datalogger
